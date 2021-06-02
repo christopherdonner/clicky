@@ -6,8 +6,8 @@
     },
     {
         "key": 2,
-        "name": "archer",
-        "image": "https://lh3.googleusercontent.com/So9uKIkGFhV_ZSU3VDvTJDJvebSOlKw3REeBeU2OixdpXnscH-bS2odTnNSP3c7qefpzCOjreJ2FBKBvDnBW4NcMqTRZ0Mg2LR_yk9XsYXAXlHkpyjIUvB1sq-rzbFg3wDwcRca-zQPlcFuNWQ36vJoOo6f3lPZZ84vSsulQ1QBpm0N32qR89c5ozBqL03GVtb6l3OlVcvJlKbeEpbyXvL774-2_qpZhHAE35dxct1F2v_OTjI2LFNf5kyQVem-wGsvTGZf8sOX_hoYKKJdm1_WNpZzsj-Ii9JheGoNtXM5hgNJmMJmxTywDqWCpy8PiGmc4cuCBvz_td9IvuZSsGdKsFZl8ELuZ-zHFQhtmg2OBctFGnhmZBVeavdMyNWgY6OThKiymWDx1C0ZLjyKyYe2ThaYS5xjdeG8JdK5kDQFDmxdXGL41X6of0xEcNaIRQuI3dxzp5Iu5piwnmrO6zMmXJT7td_48G08kRB2Tv6gwU5QX0jS97XlbgrZs6__XoBDoV-mixNVwE8Y-7IWJ3DyyP0JbKcLXEZbDrl6Uk65ZoDZzbSx67DumiIBK2H63T0PyLIs1Dsp71ade4O9JRyP-nUGjppP6YtvgO6kOvT6fe_UsaErCivb04NaHBPW9HevGUXLZKdWY754FcLEtlqzhm5QZwjeqsBM7JHVSJg2FSGjG6u1l4hxqMX-yzMOG8XNsFL4c-1rrTmiB2aTRnnUd=w915-h733-no"
+        "name": "Olaf",
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3e-k9tkSo_FlsULd0aOvIvndcMq52guY3fTrgvA7SGuYIsFnwVqYWXwLjXG6otDoT5Cv3LnIjrPDm54tNEk_lrXve4b0p_TMgDljZhhzvKnxkroYFdGAqSdtXX4Dgeqn_q7oOzzY-k4THKxg7FYWI_D8A=w758-h1010-no?authuser=0"
     },
     {
         "key": 3,
@@ -32,7 +32,7 @@
     {
         "key": 7,
         "name": "darkwing",
-        "image": "https://lh3.googleusercontent.com/imRufG8cED6Ex969I4ypgvM25pf_6MtcdmhPQjyTn5bdMF4FzHEwlSFqpkb_Xb2sDDQ89JlQWGfLSM3a9wCHKASl3f9qnb8UWd9k9XJziCL_3U6idjYT8dgdQo2ZY1s7zf9jn5PZZjdotDISm0ky0b4IC63vCp5D2PJBjm-K2biizQc6WE4Hdsy8zWKukTJrolo6IgUEuCJLh3zVc-fWlbrNiSo2qvEp7TPCUGNtYxCY64ukSpVK9Yb4B3ykHAbDi6i2rGr30vpe7FQkJbrmL3RUQD6Zw9fo1kBf7HEtkppodleLaDUY0F_6iZeCMCBy3QCEtj3Zj-dfTZZOF6ahyIeofeVkS0wa099oZevr7yp3cHitgNWplM2mpqDwa-7FkxY-7sw3232la87YvIdigWEd777gMO8I7W_SwjlQvgy94QiOe2yAhbW5bbUZfgRW-vpBNUwoELYTOebVGlSqqTMecxnrbLkFJ8xkVuHuIU4bMveiybb7K32a0U2Djqr8VqVrEqgKQtt54jMSVE-38KTqCEHYBOzvjlvUkPyGDhLBXuBZpNSgiLYICowXnKkJuT7aFmmg4sW7s2LX91dnNLst2F0a6gtSZjUXbKU6HzsbzTWpWJtzbVNrdcNEXVgdaT4v_qHRqc6SB7YfFv7Fqvd6CyhYvc-EwcQV-3JZqz2Z_hdKx8J6zqNVoxaLRHaywvbPx7dkoPrc1oMKmEOYprkhDQ=w1008-h756-no"
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3cHip9EOLshb5jXcSCay1Lrr0fNs2iLguddMhb_EZNb8TKSxKUyu0ak-mrrzTDfO55rrO_4WJAdLGFDaromtPT_fDiie9g0xygWTjbCEgQt0ohR8Wd8scX96_xlH7wrrljSKehQSlZhF2t-OoV_o1-rZA=s1010-no?authuser=0"
     },
     {
         "key": 8,
@@ -76,8 +76,8 @@
     },
     {
         "key": 16,
-        "name": "streetfighter",
-        "image": "https://lh3.googleusercontent.com/B4IPpr_ESGRGbBSrail5gulBiYR8Ib7IZNdh1gQjA-S0rptKq2oU2MZrbyTVGz36bN7Xlm7RALGy_rDhvqXKNfnxLilfwkukZAT7w9aNf5SPb5zvPrjUd8xT2sTerEc7jJK7cxjO0KVhF5sesnxpW0zW5RNzB7lNeFNw6AsSabw8GkE3qoJDPcvhv9NwDFX5MFm7IzsFTKJSKgX4qYxqT5LS2wpYnwoEI_RhVAOk00ygQGDpTtBwcb5GZZL9_yvI2N08qkibJC7wjA72oJhvoq1Ch04uaNhl8rY3zaIlYelOOXNkHA_Ebx_S-bBsSBz5aco7Pg-0N6uuMmDiYfUMIhrBicLWx4rYkUqiIGt0ZHV6OAN2LtfSbE5P8TME2fDHV9CmIIljcNQ18zxWeHAb2pRvAbAazDRZd2afwbrtlc2I_B-0koTpHDKTWuiVOEKJFaPGu8_pOsjq-cYj3cnyfdSo40I7p0XSfJ2CqSkfmk2Jw9z0AiXCWGiC77I0FpeaqZQUtE1n6Fx8RRBedirinJYS0k8BNGFhLwjMWGJK9KwY77-QAftXluR7xBB_5lSEQweJDOJkckSLCnKfjGIL50gGAy_sHWR62ljxaEC5QzYjVCPEXXggjknJ4BeflsTpViR_jjPXDh32OJl1BC38LqhqnJvLe2Sa2Dv9knAQ57EYLeLAmB_uoGntr_86G97A6DQB_ROknPJICIQSsft4uhiu=w1448-h1086-no"
+        "name": "rainbowDash",
+        "image": "https://lh3.googleusercontent.com/pw/ACtC-3ebZKMFk26SruSRQ583xSLsDNLWdXbCNISbUsGfN2L9ZbS_zMpkC1ABd2tXhEbHgqpsCSc7tU6Tw-rocnfmxOjF0GZKt51igiQCXUB9tEaOGDmCLrfNEoW5-vA3S_gv1hMXriq12nm6Gr0u5B-uULyrNw=w889-h1011-no?authuser=0"
     },
     {
         "key": 17,
