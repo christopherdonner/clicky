@@ -8,3 +8,13 @@ html, body, #root {
   margin: 0;
   height: 100%;
 }
+
+img {
+  padding: 0px;
+  transition: padding 0.3s;
+}
+
+img:hover {
+  padding: 2px;
+  transition: padding 0.3s;
+}

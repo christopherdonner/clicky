@@ -26,7 +26,7 @@ class App extends Component {
     console.log(alreadygussed)
     if(alreadygussed.length<1){this.setState({score: this.state.score+1})}
     for(let i=0;i<alreadygussed.length;i++){
-      if(id!=alreadygussed[i]){
+      if(id!==alreadygussed[i]){
         this.setState({score: this.state.score+1})
       }
       else{
@@ -39,8 +39,6 @@ class App extends Component {
     alreadygussed.push(id)
   }
 
-
-  // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
       <div>
